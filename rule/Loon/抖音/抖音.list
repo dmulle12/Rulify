@@ -1,20 +1,26 @@
 # NAME: 抖音
 # AUTHOR: Rulify
 # REPO: https://github.com/dmulle12/Rulify
-# UPDATED: 2026-10-23 18:03:59
-# DOMAIN-SUFFIX: 13
-# IP-CIDR: 16
-# TOTAL: 29
+# UPDATED: 2026-10-23 18:06:37
+# DOMAIN-SUFFIX: 19
+# IP-CIDR: 17
+# TOTAL: 36
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,auraex.cn
+DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,byteeffecttos.com
 DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytehwm.com
+DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,qishui.com
 DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,ydycdn.com
 DOMAIN-SUFFIX,yingt.fun
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zjcdn.com
@@ -24,6 +30,7 @@ IP-CIDR,101.73.66.122/32,no-resolve
 IP-CIDR,110.43.121.3/32,no-resolve
 IP-CIDR,112.95.6.98/32,no-resolve
 IP-CIDR,163.181.90.199/32,no-resolve
+IP-CIDR,219.155.150.89/32,no-resolve
 IP-CIDR,23.54.118.137/32,no-resolve
 IP-CIDR,23.54.118.168/32,no-resolve
 IP-CIDR,34.102.215.99/32,no-resolve
