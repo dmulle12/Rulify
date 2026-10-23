@@ -1,0 +1,36 @@
+# NAME: 抖音
+# AUTHOR: Rulify
+# REPO: https://github.com/dmulle12/Rulify
+# UPDATED: 2026-10-23 18:03:33
+# DOMAIN-SUFFIX: 13
+# IP-CIDR: 16
+# TOTAL: 29
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,auraex.cn
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,qishui.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,yingt.fun
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,zjcdn.com
+IP-CIDR,101.47.81.229/32,no-resolve
+IP-CIDR,101.73.66.120/32,no-resolve
+IP-CIDR,101.73.66.122/32,no-resolve
+IP-CIDR,110.43.121.3/32,no-resolve
+IP-CIDR,112.95.6.98/32,no-resolve
+IP-CIDR,163.181.90.199/32,no-resolve
+IP-CIDR,23.54.118.137/32,no-resolve
+IP-CIDR,23.54.118.168/32,no-resolve
+IP-CIDR,34.102.215.99/32,no-resolve
+IP-CIDR,36.249.93.217/32,no-resolve
+IP-CIDR,42.231.136.131/32,no-resolve
+IP-CIDR,42.4.56.57/32,no-resolve
+IP-CIDR,43.174.2.195/32,no-resolve
+IP-CIDR,43.174.63.191/32,no-resolve
+IP-CIDR,71.18.101.101/32,no-resolve
+IP-CIDR,71.18.200.100/32,no-resolve
