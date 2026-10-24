@@ -1,10 +1,10 @@
 # NAME: 抖音
 # AUTHOR: Rulify
 # REPO: https://github.com/dmulle12/Rulify
-# UPDATED: 2026-10-23 18:08:15
-# DOMAIN-SUFFIX: 19
-# IP-CIDR: 17
-# TOTAL: 36
+# UPDATED: 2026-10-24 17:17:34
+# DOMAIN-SUFFIX: 22
+# IP-CIDR: 42
+# TOTAL: 64
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,auraex.cn
 DOMAIN-SUFFIX,baike.com
@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,ecombdimg.com
+DOMAIN-SUFFIX,ecombdpage.com
+DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,qishui.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,ydycdn.com
@@ -28,15 +31,40 @@ IP-CIDR,101.47.81.229/32,no-resolve
 IP-CIDR,101.73.66.120/32,no-resolve
 IP-CIDR,101.73.66.122/32,no-resolve
 IP-CIDR,110.43.121.3/32,no-resolve
+IP-CIDR,111.132.9.70/32,no-resolve
+IP-CIDR,111.172.211.148/32,no-resolve
+IP-CIDR,111.174.12.113/32,no-resolve
+IP-CIDR,111.48.138.116/32,no-resolve
+IP-CIDR,111.6.201.146/32,no-resolve
+IP-CIDR,111.7.66.168/32,no-resolve
 IP-CIDR,112.95.6.98/32,no-resolve
+IP-CIDR,118.252.196.104/32,no-resolve
+IP-CIDR,123.6.179.111/32,no-resolve
+IP-CIDR,163.181.82.190/32,no-resolve
+IP-CIDR,163.181.82.192/32,no-resolve
+IP-CIDR,163.181.82.196/32,no-resolve
+IP-CIDR,163.181.90.193/32,no-resolve
+IP-CIDR,163.181.90.194/32,no-resolve
+IP-CIDR,163.181.90.195/32,no-resolve
+IP-CIDR,163.181.90.196/32,no-resolve
+IP-CIDR,163.181.90.197/32,no-resolve
+IP-CIDR,163.181.90.198/32,no-resolve
 IP-CIDR,163.181.90.199/32,no-resolve
+IP-CIDR,163.181.90.200/32,no-resolve
+IP-CIDR,171.15.110.132/32,no-resolve
+IP-CIDR,183.204.68.146/32,no-resolve
 IP-CIDR,219.155.150.89/32,no-resolve
+IP-CIDR,23.45.207.207/32,no-resolve
 IP-CIDR,23.54.118.137/32,no-resolve
+IP-CIDR,23.54.118.145/32,no-resolve
 IP-CIDR,23.54.118.168/32,no-resolve
+IP-CIDR,23.54.155.104/32,no-resolve
 IP-CIDR,34.102.215.99/32,no-resolve
 IP-CIDR,36.249.93.217/32,no-resolve
 IP-CIDR,42.231.136.131/32,no-resolve
+IP-CIDR,42.236.77.100/32,no-resolve
 IP-CIDR,42.4.56.57/32,no-resolve
+IP-CIDR,43.152.22.182/32,no-resolve
 IP-CIDR,43.174.2.195/32,no-resolve
 IP-CIDR,43.174.63.191/32,no-resolve
 IP-CIDR,71.18.101.101/32,no-resolve

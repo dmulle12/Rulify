@@ -1,7 +1,8 @@
 # NAME: Nagram
 # AUTHOR: Rulify
 # REPO: https://github.com/dmulle12/Rulify
-# UPDATED: 2026-10-23 18:08:15
-# IP-CIDR: 1
-# TOTAL: 1
+# UPDATED: 2026-10-24 17:17:34
+# IP-CIDR: 2
+# TOTAL: 2
+IP-CIDR,149.154.165.96/32,no-resolve
 IP-CIDR,91.108.56.148/32,no-resolve
