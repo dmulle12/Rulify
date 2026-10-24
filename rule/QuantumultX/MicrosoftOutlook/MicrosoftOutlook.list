@@ -1,0 +1,10 @@
+# NAME: MicrosoftOutlook
+# AUTHOR: Rulify
+# REPO: https://github.com/dmulle12/Rulify
+# UPDATED: 2026-10-24 17:27:10
+# HOST: 1
+# HOST-SUFFIX: 2
+# TOTAL: 3
+HOST,config.edge.skype.com
+HOST-SUFFIX,live.com
+HOST-SUFFIX,office.com

@@ -1,0 +1,11 @@
+# NAME: Gmail
+# AUTHOR: Rulify
+# REPO: https://github.com/dmulle12/Rulify
+# UPDATED: 2026-10-24 17:27:10
+# HOST-SUFFIX: 5
+# TOTAL: 5
+HOST-SUFFIX,googleusercontent.com
+HOST-SUFFIX,meetings.googleapis.com
+HOST-SUFFIX,oauth2.googleapis.com
+HOST-SUFFIX,oauthaccountmanager.googleapis.com
+HOST-SUFFIX,tasks-pa.googleapis.com
